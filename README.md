@@ -1,1 +1,0 @@
-# AI_based-Home-Security-system
