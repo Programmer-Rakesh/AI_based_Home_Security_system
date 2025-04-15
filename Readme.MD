@@ -31,6 +31,14 @@ An **AI-based object detection system** that creates a **virtual box** outside a
 
 ---
 
+## 📷 Demo & Results
+- 🟢 No Human in Door Range
+Description: **Visual box is green, indicating safety**
+
+<p align="center">
+  <img src="https://github.com/Programmer-Rakesh/Programmer-Rakesh/blob/main/2w.png" width="550" height="200">
+</p>
+
 ## 🧠 Libraries & Packages  
 
 ```python
