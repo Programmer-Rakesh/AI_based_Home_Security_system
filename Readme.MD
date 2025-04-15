@@ -35,6 +35,9 @@ An **AI-based object detection system** that creates a **virtual box** outside a
 
 ```python
 import cv2  
-import numpy as np  
-import matplotlib.pyplot as plt  
-from ultralytics import YOLO  
+import pickle
+import numpy as np    
+from ultralytics import YOLO
+import matplotlib.pyplot as plt
+from skimage.transform import resize
+
