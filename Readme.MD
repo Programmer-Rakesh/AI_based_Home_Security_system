@@ -48,6 +48,8 @@ An **AI-based object detection system** that creates a **virtual box** outside a
   <img src="https://github.com/Programmer-Rakesh/AI_based_Home_Security_system/blob/main/Demo_media/Alert.png" width="600" height="300">
 </p>
 
+---
+
 ## 🧠 Libraries & Packages  
 
 ```python
