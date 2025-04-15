@@ -33,7 +33,7 @@ An **AI-based object detection system** that creates a **virtual box** outside a
 
 ## 📷 Demo & Results
 - 🟢 No Human in Door Range
-Description: **Visual box is green, indicating safety.**
+- Description: **Visual box is green, indicating safety.**
 
 <p align="center">
   <img src="https://github.com/Programmer-Rakesh/AI_based_Home_Security_system/blob/main/Demo_media/Safe.png" width="600" height="300">
@@ -42,7 +42,7 @@ Description: **Visual box is green, indicating safety.**
 ---
 
 - 🔴 Human in Door Range
-Description: **Visual box turns red as human enters the zone.**
+- Description: **Visual box turns red as human enters the zone.**
 
 <p align="center">
   <img src="https://github.com/Programmer-Rakesh/AI_based_Home_Security_system/blob/main/Demo_media/Alert.png" width="600" height="300">
