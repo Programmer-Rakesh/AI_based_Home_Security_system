@@ -57,7 +57,6 @@ while True:
     if frame_nmr % step == 0:
         previous_frame = frame.copy()
 
-    # Draw overlays for parking spots
     for spot_index, spot in enumerate(spots):
         spot_status = spots_status[spot_index]
         x1, y1, w, h = spot
