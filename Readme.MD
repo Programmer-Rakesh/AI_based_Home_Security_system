@@ -1,4 +1,4 @@
-# 🛡️ Smart Security Zone – Visual Door Alert System 🚪  
+# 🛡️ Smart Security Zone – Visual Zone Alert System 🚪  
 **By First Year B.Tech ECE Student – Rakesh Roy**
 
 ---
